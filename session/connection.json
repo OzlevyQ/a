@@ -1,0 +1,20 @@
+{
+  "isAuthenticated": true,
+  "isReady": true,
+  "sessionPath": "C:\\Users\\ozlev\\Desktop\\MCP\\whatsappweb mcp\\session",
+  "connectedAt": "2025-06-11T19:01:36.556Z",
+  "clientInfo": {
+    "pushname": "Oz Levy",
+    "wid": {
+      "server": "c.us",
+      "user": "972548203249",
+      "_serialized": "972548203249@c.us"
+    },
+    "me": {
+      "server": "c.us",
+      "user": "972548203249",
+      "_serialized": "972548203249@c.us"
+    },
+    "platform": "iphone"
+  }
+}
